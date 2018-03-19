@@ -1,9 +1,3 @@
-/* ZIYU SONG
- * NET ID: zsong10
- * CSC 242
- * Project 2
- */
-
 package pl.examples;
 
 import pl.core.Biconditional;
